@@ -1,7 +1,7 @@
 <!-- Vishwjit Upase | Software Engineering × AI -->
 
 <p align="center">
-  <img src="./assets/intro.gif" alt="Hi, I'm Vishwjit Upase" width="100%" />
+  <img src="./assets/intro.gif" alt="Hey,Myself Vishwjit Upase" width="100%" />
 </p>
 
 <p align="center">
@@ -16,11 +16,10 @@
 
 ---
 
-## Who I Am
 
 I'm a **B.E. Information Technology student graduating in 2027**, focused on **Software Engineering and AI & Generative AI**. I enjoy building full-stack applications, backend APIs, and AI-powered tools that solve practical problems.
 
-- **Currently focused on:** Python, JavaScript, full-stack engineering, and agentic AI
+- **Currently focused on:** Python, JavaScript, full-stack engineering, and Artificial Intelligence 
 - **Software interests:** API design, authentication, databases, debugging, and maintainable application architecture
 - **AI interests:** LLMs, AI agents, multi-agent workflows, LangGraph, LangChain, MCP, and tool calling
 - **Based in:** Pune, Maharashtra, India
@@ -32,6 +31,8 @@ const focus = {
   improve: ["DSA", "System design fundamentals", "Testing and deployment"]
 };
 ```
+
+
 
 ## Featured Projects
 
@@ -69,7 +70,9 @@ An AI travel planner that turns natural-language requests into personalized trav
 
 <sub>Stack: Python · FastAPI · LangGraph · LangChain · Groq · AI Agents · MCP · PostgreSQL · Redis · Docker</sub>
 
-## What I Build
+
+
+## What I Work On
 
 <table>
   <tr>
@@ -87,6 +90,9 @@ An AI travel planner that turns natural-language requests into personalized trav
     </td>
   </tr>
 </table>
+
+
+
 
 ## Technology Stack
 
@@ -125,6 +131,9 @@ An AI travel planner that turns natural-language requests into personalized trav
 ![MCP](https://img.shields.io/badge/MCP-0F766E?style=flat-square)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
+
+
+
 ## Experience
 
 **Python Development Intern · Cognifyz Technologies**  
@@ -134,28 +143,32 @@ An AI travel planner that turns natural-language requests into personalized trav
 - Practiced writing maintainable Python code using structured programming and systematic debugging.
 - Strengthened practical understanding of programming logic, code refinement, and task-based development.
 
+
+
+
 ## Education
 
 **JSPM's Jayawantrao Sawant College of Engineering, Pune**  
 B.E. · Information Technology · 2023–2027  
 CGPA: **8.0/10**
 
+
+
 ## GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vishuu-patil-001&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=60A5FA&text_color=C9D1D9&rank_icon=github" alt="GitHub profile statistics" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishuu-patil-001&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" alt="Most used programming languages on GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vishuu-patil-001&hide_border=true&background=0D1117&ring=22D3EE&fire=F59E0B&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=vishuu-patil-001&hide_border=true&background=0D1117&ring=22D3EE&fire=F59E0B&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak showing current streak, longest streak, and total contributions" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishuu-patil-001&bg_color=0D1117&color=C9D1D9&line=22D3EE&point=60A5FA&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
-</p>
 
 <sub>These cards load live data from third-party services. If a provider is temporarily unavailable, the cards may not render; the underlying GitHub profile remains the source of truth.</sub>
+
+
+
 
 ## Let's Build Something Meaningful
 
